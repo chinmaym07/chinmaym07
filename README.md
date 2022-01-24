@@ -1,20 +1,11 @@
-### Hi there, I'm Chinmay 👋
+### Hi there, I'm Chinmay👋
 
-## I'm a Developer!!
-
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Chess and Football
+ I'm a **Full Stack Developer**!!
+- I love to play Chess and Football
+- I contribute to Open Source projects.
 
 
-### Connect with me:
+### you can find me on:
+- [linkedin](https://www.linkedin.com/in/chinmay-mehta-009132193)
 
-[<img align="left" alt="chinmay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chinmay-mehta-009132193)
-
-
-<br />
-
-
-
----
 
