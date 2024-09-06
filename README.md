@@ -6,6 +6,6 @@
 
 
 ### you can find me on:
-- [linkedin](https://www.linkedin.com/in/chinmay-mehta-009132193)
+- [linkedin](https://www.linkedin.com/in/chinmaym07/)
 
 
